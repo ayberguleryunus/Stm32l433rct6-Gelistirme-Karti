@@ -6,3 +6,5 @@ Bu PCB tasarım projesinde amacımız low power bir microcontroller kullanarak b
 - 2 adet USB Type C
 - Kullanıcı için Buton ve LED
 - GPIO headerları
+
+  NOT: PCB üretime gönderildi. Elimize ulaştığında görselleri eklenecektir. 
