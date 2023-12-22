@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC11_2 New Net Name=a_D
+Change Net Name : Old Net Name=NetC13_2 New Net Name=A_P
+Add Differential Pair: Number of nets in differential pair a_D is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair A is 1 instead of 2

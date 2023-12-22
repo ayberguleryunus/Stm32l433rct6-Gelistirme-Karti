@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetJ10_19 Pin=S1-4
+Removed Pin From Net: NetName=NetJ9_15 Pin=S1-6
+Removed Pin From Net: NetName=NetJ9_11 Pin=S1-7
+Removed Pin From Net: NetName=NetJ3_7 Pin=S1-8
+Removed Pin From Net: NetName=NetJ10_14 Pin=S1-9
+Removed Pin From Net: NetName=NetJ9_14 Pin=S1-10
+Removed Pin From Net: NetName=NetJ3_2 Pin=S1-11
+Removed Pin From Net: NetName=NetJ10_20 Pin=S1-12
+Change Component Footprint: Designator=S1 Old Footprint=Switch Slide 4PDT New Footprint=Switch Slide DPDT
+Change Component Comment : Designator=J1 Old Comment=1054500101 New Comment=217B-BC02
+Change Component Comment : Designator=J8 Old Comment=1054500101 New Comment=217B-BC02
+Change Component Comment : Designator=J2 Old Comment=DC050-T New Comment=L-KLS1-TDC-001-2.0-T
+Change Component Comment : Designator=S1 Old Comment=K3-2268P New Comment=JS202011JCQN
+Change Component Comment : Designator=BT1 Old Comment=MY-1220-03-R New Comment=L-KLS5-CR1220-011-R
+Change Component Comment : Designator=Y3 Old Comment=Q13FC1350004900 New Comment=RT3215-32.768-6-EXT-TR
+Change Component Comment : Designator=J3 Old Comment=TF-115-BCP9 New Comment=KLS1-TF-003
+Change Component Comment : Designator=S2 Old Comment=TPF16LS-SE50 New Comment=DTSM-61S-V-T/R
+Change Component Comment : Designator=S3 Old Comment=TPF16LS-SE50 New Comment=DTSM-61S-V-T/R
+Change Component Comment : Designator=S4 Old Comment=TPF16LS-SE50 New Comment=DTSM-61S-V-T/R
+Change Component Comment : Designator=Y2 Old Comment=X49SM4MSD2SC New Comment=AS-4.000-16-SMD-TR
+Change Component Comment : Designator=Y1 Old Comment=X49SM12MSD2SC New Comment=AS-12.000-18-SMD-TR
+Change Component Comment : Designator=R4 Old Comment=YC248-JR-0710KL New Comment=16P8WGJ0103T4E
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "BATTERY HOLDER CR1220"; UniqueID = "\OYCDOELD" ("\OYCDOELD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/bataryalar/batarya-aksesuarlari/pil-yuvalari/L-KLS5-CR1220-011-R/585223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/bataryalar/batarya-aksesuarlari/pil-yuvalari/L-KLS5-CR1220-011-R/585223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "CR1220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "POWER JACK SMD"; UniqueID = "\PFVCZBBD" ("\PFVCZBBD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/power-konnektorler/power-jackler/L-KLS1-TDC-001-2-0-T/466366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/power-konnektorler/power-jackler/L-KLS1-TDC-001-2-0-T/466366"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "MICRO_SD_CARD"; UniqueID = "\YEKJDHAC" ("\YEKJDHAC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ozdisan.com/p/pc-kart-soketleri-10181?SearchText=KLS1-TF-003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/p/pc-kart-soketleri-10181?SearchText=KLS1-TF-003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TF-115-BCP9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "Switch Slide 4PDT"; UniqueID = "\UZZEESWH" ("\UZZEESWH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/elektromekanik-komponentler/sivicler-ve-anahtarlar/surgulu-sivicler/JS202011JCQN/1022388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/elektromekanik-komponentler/sivicler-ve-anahtarlar/surgulu-sivicler/JS202011JCQN/1022388"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "HC-49S-SMD"; UniqueID = "\MNFHUMDB" ("\MNFHUMDB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-4-000-16-SMD-TR/40448"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-4-000-16-SMD-TR/40448"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "4Mhz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y3" ("Y3"); Footprint = "SMD3215-2P"; UniqueID = "\JLOUIHNB" ("\JLOUIHNB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/RT3215-32-768-6-EXT-TR/576635"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/RT3215-32-768-6-EXT-TR/576635"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "32Khz"; VariantName = "[No Variations]"
+Added Component: Designator=S5(Switch Slide DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/elektromekanik-komponentler/sivicler-ve-anahtarlar/surgulu-sivicler/JS202011JCQN/1022388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/elektromekanik-komponentler/sivicler-ve-anahtarlar/surgulu-sivicler/JS202011JCQN/1022388"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ9_15 Pin=S1-4
+Added Pin To Net: NetName=NetJ10_19 Pin=S1-6
+Added Pin To Net: NetName=NetJ10_14 Pin=S5-1
+Added Pin To Net: NetName=NetJ3_7 Pin=S5-2
+Added Pin To Net: NetName=NetJ9_11 Pin=S5-3
+Added Pin To Net: NetName=NetJ9_14 Pin=S5-4
+Added Pin To Net: NetName=NetJ3_2 Pin=S5-5
+Added Pin To Net: NetName=NetJ10_20 Pin=S5-6
+Added Member To Class: ClassName=All_Components Member=Component S5 JS202011JCQN

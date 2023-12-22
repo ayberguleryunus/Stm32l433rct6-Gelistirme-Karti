@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\yunus\Desktop\Stm32l433rct6 Geliþtirme Kartý Sýralý musa edition\MyPCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mypcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mypcb-slotholes.txt|DrillLayers=gtl,gbl

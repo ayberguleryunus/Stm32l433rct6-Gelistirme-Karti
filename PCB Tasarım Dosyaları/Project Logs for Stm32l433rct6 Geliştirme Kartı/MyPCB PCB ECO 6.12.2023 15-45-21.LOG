@@ -1,0 +1,282 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+5 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+3.3 Pin=C10-2
+Removed Pin From Net: NetName=NetD2_C Pin=D2-C
+Removed Pin From Net: NetName=NetD3_C Pin=D3-C
+Removed Pin From Net: NetName=NetC5_1 Pin=D4-C
+Removed Pin From Net: NetName=+5 Pin=D5-C
+Removed Pin From Net: NetName=NetD4_A Pin=D6-2
+Removed Pin From Net: NetName=NetD4_A Pin=F1-2
+Removed Pin From Net: NetName=NetD2_A Pin=R1-1
+Removed Pin From Net: NetName=+3.3 Pin=R9-1
+Removed Pin From Net: NetName=NetC24_2 Pin=R9-2
+Removed Pin From Net: NetName=NetJ6_2 Pin=R10-2
+Removed Pin From Net: NetName=NetD7_A Pin=R13-1
+Removed Pin From Net: NetName=+3.3 Pin=R13-2
+Removed Pin From Net: NetName=NetJ10_20 Pin=S1-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=S1-2
+Removed Pin From Net: NetName=NetJ9_14 Pin=S1-3
+Removed Pin From Net: NetName=NetJ10_5 Pin=S1-4
+Removed Pin From Net: NetName=NetJ3_3 Pin=S1-5
+Removed Pin From Net: NetName=NetJ10_13 Pin=S1-6
+Removed Pin From Net: NetName=NetJ10_19 Pin=S2-1
+Removed Pin From Net: NetName=NetJ3_5 Pin=S2-2
+Removed Pin From Net: NetName=NetJ9_15 Pin=S2-3
+Removed Pin From Net: NetName=NetJ9_11 Pin=S2-4
+Removed Pin From Net: NetName=NetJ3_7 Pin=S2-5
+Removed Pin From Net: NetName=NetJ10_14 Pin=S2-6
+Removed Pin From Net: NetName=NetJ10_18 Pin=S3-2
+Removed Pin From Net: NetName=NetJ10_18 Pin=S3-2
+Removed Pin From Net: NetName=+3.3 Pin=S4-1
+Removed Pin From Net: NetName=+3.3 Pin=S4-1
+Removed Pin From Net: NetName=NetJ10_17 Pin=S4-2
+Removed Pin From Net: NetName=NetJ10_17 Pin=S4-2
+Removed Pin From Net: NetName=NetC24_2 Pin=S5-1
+Removed Pin From Net: NetName=NetC24_2 Pin=S5-1
+Removed Pin From Net: NetName=GND Pin=S5-2
+Removed Pin From Net: NetName=GND Pin=S5-2
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-8
+Removed Pin From Net: NetName=NetC5_1 Pin=U2-3
+Removed Pin From Net: NetName=NetC4_1 Pin=Y1-1
+Removed Member From Class: ClassName=All_Components Member=R13
+Removed Member From Class: ClassName=All_Components Member=S5
+Change Component Footprint: Designator=C4 Old Footprint=CAP 0603 New Footprint=SMD,D4xL5.8mm
+Change Component Footprint: Designator=D2 Old Footprint=LED_0603 New Footprint=SOD-123
+Change Component Footprint: Designator=D3 Old Footprint=LED_0603 New Footprint=SOD-123
+Change Component Footprint: Designator=C6 Old Footprint=SMD,D4xL5.8mm New Footprint=CAP 0603
+Change Component Footprint: Designator=D4 Old Footprint=SOD-123 New Footprint=LED_0603
+Change Component Footprint: Designator=D5 Old Footprint=SOD-123 New Footprint=LED_0603
+Change Component Footprint: Designator=S1 Old Footprint=Switch DPDT New Footprint=Switch Slide 4PDT
+Change Component Footprint: Designator=S2 Old Footprint=Switch DPDT New Footprint=SWITCH TACT 6.00x6.00 4.30mm
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:MOLEX_1054500101
+Change Footprint: Cannot match pads with new footprint in component :J8 Footprint:MOLEX_1054500101
+Change Component Footprint: Designator=Y2 Old Footprint=XTAL_ECS-080-20-5PX-TR New Footprint=HC-49S-SMD
+Change Component Footprint: Designator=Y3 Old Footprint=XTAL_RT3215-32.768-12.5-TR New Footprint=SMD3215-2P
+Change Component Comment : Designator=R5 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=R6 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=R8 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=D4 Old Comment=1N5819HW-7-F New Comment=NCD0603B1
+Change Component Comment : Designator=D5 Old Comment=1N5819HW-7-F New Comment=NCD0603R1
+Change Component Comment : Designator=C19 Old Comment=1uF New Comment=CL10A105KA8NNNC
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=RC0603FR-0710KL
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=RC0603FR-0710KL
+Change Component Comment : Designator=C21 Old Comment=10pF New Comment=CC0603FRNPO9BN100
+Change Component Comment : Designator=C23 Old Comment=10pF New Comment=CC0603FRNPO9BN100
+Change Component Comment : Designator=C15 Old Comment=10uF New Comment=CL10A105KA8NNNC
+Change Component Comment : Designator=C20 Old Comment=10uF New Comment=CL10A106KO8NQNC
+Change Component Comment : Designator=R11 Old Comment=20 New Comment=RC0603FR-0720RL
+Change Component Comment : Designator=R12 Old Comment=20 New Comment=RC0603FR-0720RL
+Change Component Comment : Designator=C11 Old Comment=22pF New Comment=CC0603JRNPO9BN330
+Change Component Comment : Designator=C13 Old Comment=22pF New Comment=CC0603JRNPO9BN330
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C14 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C16 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C17 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C22 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=BT1 Old Comment=BATT CR1220 New Comment=MY-1220-03-R
+Change Component Comment : Designator=C4 Old Comment=CC0603JRNPO9BN330 New Comment=EEEFK1C470SR
+Change Component Comment : Designator=C7 Old Comment=CC0603JRX7R9BB104 New Comment=CL10A106KO8NQNC
+Change Component Comment : Designator=C10 Old Comment=CL10A105KA8NNNC New Comment=CC0603JRNPO9BN330
+Change Component Comment : Designator=C8 Old Comment=CL10A106KO8NQNC New Comment=CL10A105KA8NNNC
+Change Component Comment : Designator=C6 Old Comment=EEEFK1C470SR New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=D8 Old Comment=LED BLUE New Comment=NCD0603B1
+Change Component Comment : Designator=D9 Old Comment=LED BLUE New Comment=NCD0603B1
+Change Component Comment : Designator=D10 Old Comment=LED BLUE New Comment=NCD0603B1
+Change Component Comment : Designator=D11 Old Comment=LED BLUE New Comment=NCD0603B1
+Change Component Comment : Designator=J3 Old Comment=Micro SD Card New Comment=TF-115-BCP9
+Change Component Comment : Designator=D2 Old Comment=NCD0603B1 New Comment=1N5819HW-7-F
+Change Component Comment : Designator=D3 Old Comment=NCD0603R1 New Comment=1N5819HW-7-F
+Change Component Comment : Designator=J2 Old Comment=POWER JACK New Comment=DC050-T
+Change Component Comment : Designator=R4 Old Comment=Res Array 10K New Comment=YC248-JR-0710KL
+Change Component Comment : Designator=S1 Old Comment=Switch DPDT New Comment=K3-2268P
+Change Component Comment : Designator=S2 Old Comment=Switch DPDT New Comment=TPF16LS-SE50
+Change Component Comment : Designator=S3 Old Comment=SWITCH TACT 6x6 New Comment=TPF16LS-SE50
+Change Component Comment : Designator=S4 Old Comment=SWITCH TACT 6x6 New Comment=TPF16LS-SE50
+Change Component Comment : Designator=J1 Old Comment=Usb Type C New Comment=1054500101
+Change Component Comment : Designator=J8 Old Comment=Usb Type C New Comment=1054500101
+Change Component Comment : Designator=Y2 Old Comment=XTAL_4MHZ_16PF New Comment=X49SM4MSD2SC
+Change Component Comment : Designator=Y3 Old Comment=XTAL_32KHZ_6PF New Comment=Q13FC1350004900
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "BATTERY HOLDER CR1220"; UniqueID = "\OYCDOELD" ("\OYCDOELD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/bataryalar/batarya-aksesuarlari/pil-yuvalari/L-KLS5-CR1220-011-R/585223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/bataryalar/batarya-aksesuarlari/pil-yuvalari/L-KLS5-CR1220-011-R/585223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MY-1220-03-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "CR1220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP 0603"; UniqueID = "\FPZTWFWX" ("\FPZTWFWX")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "SMD,D4xL5.8mm"; UniqueID = "\OQWPWWMV" ("\OQWPWWMV")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 0603"; UniqueID = "\GIUHFAKZ" ("\GIUHFAKZ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP 0603"; UniqueID = "\PWSDXGIZ" ("\PWSDXGIZ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP 0603"; UniqueID = "\UPZEAJLP" ("\UPZEAJLP")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP 0603"; UniqueID = "\ENAFZWYT" ("\ENAFZWYT")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP 0603"; UniqueID = "\LKSBNNCS" ("\LKSBNNCS")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP 0603"; UniqueID = "\MDVCRQEO" ("\MDVCRQEO")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP 0603"; UniqueID = "\YMFHHSJI" ("\YMFHHSJI")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP 0603"; UniqueID = "\IHZMLNWI" ("\IHZMLNWI")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP 0603"; UniqueID = "\GFOJFJUQ" ("\GFOJFJUQ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP 0603"; UniqueID = "\HVWWXYZJ" ("\HVWWXYZJ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP 0603"; UniqueID = "\RQNDVWIG" ("\RQNDVWIG")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP 0603"; UniqueID = "\KGVDDWNS" ("\KGVDDWNS")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP 0603"; UniqueID = "\BCBINTID" ("\BCBINTID")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP 0603"; UniqueID = "\NTFKBQCC" ("\NTFKBQCC")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP 0603"; UniqueID = "\GIMBVQPU" ("\GIMBVQPU")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP 0603"; UniqueID = "\FAUFPYNH" ("\FAUFPYNH")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP 0603"; UniqueID = "\KQCZCZXD" ("\KQCZCZXD")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD-123"; UniqueID = "\ZRRPOHAU" ("\ZRRPOHAU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_0603"; UniqueID = "\VWYRMNSC" ("\VWYRMNSC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_0603"; UniqueID = "\PYECXLRM" ("\PYECXLRM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SOD-123"; UniqueID = "\XQGVGBUH" ("\XQGVGBUH")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "SOD-123"; UniqueID = "\XQHMIKML" ("\XQHMIKML")
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED_0603"; UniqueID = "\TXXOLUNF" ("\TXXOLUNF")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "LED_0603"; UniqueID = "\XVIZCERM" ("\XVIZCERM")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "LED_0603"; UniqueID = "\PYOIHOZA" ("\PYOIHOZA")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11" ("D11"); Footprint = "LED_0603"; UniqueID = "\QUJVJGTT" ("\QUJVJGTT")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "SOD-123"; UniqueID = "\JUDJZYDT" ("\JUDJZYDT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB TYPE C"; UniqueID = "\JKMPLAWF" ("\JKMPLAWF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/usb-dvi-hdmi-konnektorler/usb-konnektorler/217B-BC02/607751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/usb-dvi-hdmi-konnektorler/usb-konnektorler/217B-BC02/607751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1054500101"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "POWER JACK SMD"; UniqueID = "\PFVCZBBD" ("\PFVCZBBD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/power-konnektorler/power-jackler/L-KLS1-TDC-001-2-0-T/466366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/power-konnektorler/power-jackler/L-KLS1-TDC-001-2-0-T/466366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DC050-T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "MICRO_SD_CARD"; UniqueID = "\YEKJDHAC" ("\YEKJDHAC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ozdisan.com/konnektor-ve-baglanti-elemanlari/hafiza-konnektorleri/pc-kart-soketleri/L-KLS1-TF-007-H1-8-R/530252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/konnektor-ve-baglanti-elemanlari/hafiza-konnektorleri/pc-kart-soketleri/L-KLS1-TF-007-H1-8-R/530252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TF-115-BCP9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "HEADER_MALE_3_PIN(1X3)"; UniqueID = "\TYCGOWQL" ("\TYCGOWQL")
+Change component parameters: Designator = "J8" ("J8"); Footprint = "USB TYPE C"; UniqueID = "\KADSYFYA" ("\KADSYFYA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/usb-dvi-hdmi-konnektorler/usb-konnektorler/217B-BC02/607751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/usb-dvi-hdmi-konnektorler/usb-konnektorler/217B-BC02/607751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1054500101"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES ARRAY 16P8"; UniqueID = "\FCKAGQBY" ("\FCKAGQBY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/pasif-komponentler/direncler/ag-ve-sira-direncler/16P8WGJ0103T4E/474050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/pasif-komponentler/direncler/ag-ve-sira-direncler/16P8WGJ0103T4E/474050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "YC248-JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES 0603"; UniqueID = "\RIIOZWGO" ("\RIIOZWGO")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES 0603"; UniqueID = "\WBYJVRKN" ("\WBYJVRKN")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES 0603"; UniqueID = "\ZRIGUIIM" ("\ZRIGUIIM")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES 0603"; UniqueID = "\AMUSOKWU" ("\AMUSOKWU")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES 0603"; UniqueID = "\CVFHVFBG" ("\CVFHVFBG")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES 0603"; UniqueID = "\XINQCTUU" ("\XINQCTUU")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES 0603"; UniqueID = "\HNULRQKE" ("\HNULRQKE")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES 0603"; UniqueID = "\XSGFHGIU" ("\XSGFHGIU")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "Switch DPDT"; UniqueID = "\NXPEGWKS" ("\NXPEGWKS")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "K3-2268P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "Switch DPDT"; UniqueID = "\VNDYDWFL" ("\VNDYDWFL")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TPF16LS-SE50 Copy"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S3" ("S3"); Footprint = "SWITCH TACT 6.00X6.00 4.30MM"; UniqueID = "\TWLUFJIS" ("\TWLUFJIS")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TPF16LS-SE50 Copy"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4" ("S4"); Footprint = "SWITCH TACT 6.00X6.00 4.30MM"; UniqueID = "\YRAJIWTN" ("\YRAJIWTN")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TPF16LS-SE50 Copy"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "XTAL_ECS-080-20-5PX-TR"; UniqueID = "\MNFHUMDB" ("\MNFHUMDB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-4-000-16-SMD-TR/40448"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-4-000-16-SMD-TR/40448"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "4Mhz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "X49SM4MSD2SC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y3" ("Y3"); Footprint = "XTAL_RT3215-32.768-12.5-TR"; UniqueID = "\JLOUIHNB" ("\JLOUIHNB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/RT3215-32-768-6-EXT-TR/576635"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/RT3215-32-768-6-EXT-TR/576635"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "32Khz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Q13FC1350004900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC4_1 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC4_1 Pin=D2-C
+Added Pin To Net: NetName=NetC5_1 Pin=D3-A
+Added Pin To Net: NetName=+5 Pin=D3-C
+Added Pin To Net: NetName=NetD2_C Pin=D4-C
+Added Pin To Net: NetName=NetD3_C Pin=D5-C
+Added Pin To Net: NetName=NetD2_A Pin=D6-2
+Added Pin To Net: NetName=NetD2_A Pin=F1-2
+Added Pin To Net: NetName=NetD4_A Pin=R1-1
+Added Pin To Net: NetName=NetC24_2 Pin=R9-1
+Added Pin To Net: NetName=+3.3 Pin=R9-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R10-1
+Added Pin To Net: NetName=NetJ10_13 Pin=S1-1
+Added Pin To Net: NetName=NetJ3_3 Pin=S1-2
+Added Pin To Net: NetName=NetJ10_5 Pin=S1-3
+Added Pin To Net: NetName=NetJ10_19 Pin=S1-4
+Added Pin To Net: NetName=NetJ3_5 Pin=S1-5
+Added Pin To Net: NetName=NetJ9_15 Pin=S1-6
+Added Pin To Net: NetName=NetJ9_11 Pin=S1-7
+Added Pin To Net: NetName=NetJ3_7 Pin=S1-8
+Added Pin To Net: NetName=NetJ10_14 Pin=S1-9
+Added Pin To Net: NetName=NetJ9_14 Pin=S1-10
+Added Pin To Net: NetName=NetJ3_2 Pin=S1-11
+Added Pin To Net: NetName=NetJ10_20 Pin=S1-12
+Added Pin To Net: NetName=+3.3 Pin=S2-1
+Added Pin To Net: NetName=+3.3 Pin=S2-1
+Added Pin To Net: NetName=NetJ10_18 Pin=S2-2
+Added Pin To Net: NetName=NetJ10_18 Pin=S2-2
+Added Pin To Net: NetName=NetJ10_17 Pin=S3-2
+Added Pin To Net: NetName=NetJ10_17 Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=NetC24_2 Pin=S4-2
+Added Pin To Net: NetName=NetC24_2 Pin=S4-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-3
+Change Net Name : Old Net Name=NetD2_C New Net Name=NetD4_C
+Change Net Name : Old Net Name=NetD3_C New Net Name=NetD5_C
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-8
+Added Pin To Net: NetName=NetC10_1 Pin=Y1-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R2-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U4-60
+Added Net: Name=NetR10_2

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Stm32l433rct6 Geliþtirme Kartý.PrjPcb]
+   Generated File[MyPCB-RoundHoles.TXT]
+   Generated File[MyPCB-SlotHoles.TXT]
+   Generated File[MyPCB.LDP]
+   Generated File[MyPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:12:01 On 22.12.2023

@@ -1,0 +1,156 @@
+Removed Pin From Net: NetName=+3.3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=+3.3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC4_1 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=+3.3 Pin=C9-2
+Removed Pin From Net: NetName=NetC4_1 Pin=D2-C
+Removed Pin From Net: NetName=+5 Pin=D3-C
+Removed Pin From Net: NetName=NetD4_C Pin=D4-C
+Removed Pin From Net: NetName=NetD5_C Pin=D5-C
+Removed Pin From Net: NetName=NetD2_A Pin=D6-2
+Removed Pin From Net: NetName=NetD2_A Pin=F1-2
+Removed Pin From Net: NetName=NetD4_A Pin=R1-1
+Removed Pin From Net: NetName=+3.3 Pin=R3-1
+Removed Pin From Net: NetName=NetD7_A Pin=R3-2
+Removed Pin From Net: NetName=NetC4_1 Pin=U2-3
+Change Component Footprint: Designator=C5 Old Footprint=CAP 0603 New Footprint=SMD,D4xL5.8mm
+Change Component Footprint: Designator=C6 Old Footprint=CAP 0603 New Footprint=SMD,D4xL5.8mm
+Change Component Footprint: Designator=C4 Old Footprint=CAP_EEE1VA100SR New Footprint=CAP 0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP_EEE1VA100SR New Footprint=CAP 0603
+Change Component Footprint: Designator=D4 Old Footprint=LED_0603 New Footprint=SOD-123
+Change Component Footprint: Designator=D5 Old Footprint=LED_0603 New Footprint=SOD-123
+Change Component Footprint: Designator=D2 Old Footprint=SOD-123 New Footprint=LED_0603
+Change Component Footprint: Designator=D3 Old Footprint=SOD-123 New Footprint=LED_0603
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ECS-080-20-5PX-TR New Footprint=HC-49S-SMD
+Change Component Comment : Designator=C5 Old Comment=0.1uF New Comment=EEEFK1C470SR
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=AC0603FR-071KL
+Change Component Comment : Designator=D2 Old Comment=1N5819HW-7-F New Comment=NCD0603B1
+Change Component Comment : Designator=D3 Old Comment=1N5819HW-7-F New Comment=NCD0603R1
+Change Component Comment : Designator=C9 Old Comment=1uF New Comment=CL10A105KA8NNNC
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=CL10A106KO8NQNC
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=EEEFK1C470SR
+Change Component Comment : Designator=C3 Old Comment=22pF New Comment=CC0603JRNPO9BN330
+Change Component Comment : Designator=C10 Old Comment=22pF New Comment=CL10A105KA8NNNC
+Change Component Comment : Designator=C4 Old Comment=47uF New Comment=CC0603JRNPO9BN330
+Change Component Comment : Designator=C7 Old Comment=47uF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=CC0603JRX7R9BB104
+Change Component Comment : Designator=D4 Old Comment=LED BLUE New Comment=1N5819HW-7-F
+Change Component Comment : Designator=D5 Old Comment=LED RED New Comment=1N5819HW-7-F
+Change Component Comment : Designator=D7 Old Comment=LED RED New Comment=NCD0603R1
+Change Component Comment : Designator=D6 Old Comment=P4SMAJ15AS_R1_00001 New Comment=SMAJ15A
+Change Component Comment : Designator=Y1 Old Comment=XTAL_12MHZ_18PF New Comment=X49SM12MSD2SC
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP 0603"; UniqueID = "\IBMJXBYF" ("\IBMJXBYF")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP 0603"; UniqueID = "\JLFRVQJJ" ("\JLFRVQJJ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP 0603"; UniqueID = "\PZSDUHVW" ("\PZSDUHVW")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_EEE1VA100SR"; UniqueID = "\PUWTKTPA" ("\PUWTKTPA")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP 0603"; UniqueID = "\DNVPJAJP" ("\DNVPJAJP")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP 0603"; UniqueID = "\QAGBGCME" ("\QAGBGCME")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP_EEE1VA100SR"; UniqueID = "\WLXXDIHC" ("\WLXXDIHC")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP 0603"; UniqueID = "\QSELUUHJ" ("\QSELUUHJ")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP 0603"; UniqueID = "\MLXUWPBC" ("\MLXUWPBC")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP 0603"; UniqueID = "\FUMUISKP" ("\FUMUISKP")
+Change component parameters (AddParameter): Name = "Capaticance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SOD-123"; UniqueID = "\HGXXYBTH" ("\HGXXYBTH")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SOD-123"; UniqueID = "\ARQMWVNN" ("\ARQMWVNN")
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED_0603"; UniqueID = "\KYFSXYAL" ("\KYFSXYAL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED_0603"; UniqueID = "\EGTQWCXX" ("\EGTQWCXX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/Product/Detail/417246/1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "DO214AC (SMA)"; UniqueID = "\ZXTSPXQB" ("\ZXTSPXQB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/guc-yari-iletkenleri/diyotlar-modul-diyotlar-ve-dogrultucular/tvs-diyotlar/P4SMAJ15ASR100001/642899"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/guc-yari-iletkenleri/diyotlar-modul-diyotlar-ve-dogrultucular/tvs-diyotlar/P4SMAJ15ASR100001/642899"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ15A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "15V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LED_0603"; UniqueID = "\HSJAVDXR" ("\HSJAVDXR")
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "PTC_1812"; UniqueID = "\XMQEEEGN" ("\XMQEEEGN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/devre-koruyucular/sigorta-bilesenleri/ptc-sigortalar/FSMD075-33R/537034"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/devre-koruyucular/sigorta-bilesenleri/ptc-sigortalar/FSMD075-33R/537034"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "750mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FSMD075-33R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES 0603"; UniqueID = "\DFZIRHGN" ("\DFZIRHGN")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES 0603"; UniqueID = "\QYDRDUHK" ("\QYDRDUHK")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES 0603"; UniqueID = "\FQKTBXST" ("\FQKTBXST")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOIC16N"; UniqueID = "\XTOVAWMN" ("\XTOVAWMN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ozdisan.com/entegre-devreler-icler/interface-entegreleri/arayuz-kontrolor-entegreleri/CH340G/469466"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/entegre-devreler-icler/interface-entegreleri/arayuz-kontrolor-entegreleri/CH340G/469466"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CH340G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT-223"; UniqueID = "\GUCDXQJC" ("\GUCDXQJC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/entegre-devreler-icler/guc-entegreleri/lineer-voltaj-regulatorleri/LD1117S50TR/405969"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/entegre-devreler-icler/guc-entegreleri/lineer-voltaj-regulatorleri/LD1117S50TR/405969"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LD1117S50TR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT-25"; UniqueID = "\FIKGFNBJ" ("\FIKGFNBJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://ozdisan.com/entegre-devreler-icler/guc-entegreleri/lineer-voltaj-regulatorleri/XC6210B332MR-G/490658"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/entegre-devreler-icler/guc-entegreleri/lineer-voltaj-regulatorleri/XC6210B332MR-G/490658"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XC6210B332MR-G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL_ECS-080-20-5PX-TR"; UniqueID = "\LUZDJPYQ" ("\LUZDJPYQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-12-000-18-SMD-TR/642535"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/AS-12-000-18-SMD-TR/642535"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "12Mhz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "X49SM12MSD2SC"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603)
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3.3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=NetD4_C Pin=D2-C
+Added Pin To Net: NetName=NetD5_C Pin=D3-C
+Added Pin To Net: NetName=+5 Pin=D5-C
+Added Pin To Net: NetName=NetD4_A Pin=D6-2
+Added Pin To Net: NetName=NetD4_A Pin=F1-2
+Added Pin To Net: NetName=NetD2_A Pin=R1-1
+Added Pin To Net: NetName=NetD7_A Pin=R3-1
+Added Pin To Net: NetName=+3.3 Pin=R3-2
+Added Pin To Net: NetName=NetD7_A Pin=R13-1
+Added Pin To Net: NetName=+3.3 Pin=R13-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-8
+Added Pin To Net: NetName=NetC4_1 Pin=Y1-1
+Change Net Name : Old Net Name=NetD4_C New Net Name=NetD2_C
+Change Net Name : Old Net Name=NetD5_C New Net Name=NetD3_C
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C7-2
+Added Pin To Net: NetName=NetC5_1 Pin=D4-C
+Added Pin To Net: NetName=NetC5_1 Pin=U2-3
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C8-2
+Added Pin To Net: NetName=NetC6_1 Pin=D5-A
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R2-1
+Added Net: Name=NetD3_A
+Added Member To Class: ClassName=All_Components Member=Component R13 AC0603FR-071KL
